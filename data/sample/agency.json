@@ -1,0 +1,35 @@
+{
+  "exported": "2026-10-09T06:00:00Z",
+  "applications": [
+    {
+      "ref": "AG-77",
+      "created": "2026-10-08T08:00:00Z",
+      "applicant": {
+        "given": "David",
+        "surname": "Demo",
+        "contact": {"email_address": "d.demo@example.com", "mobile": "+49 40 66969 004"}
+      },
+      "remark": "Referred by the employment agency."
+    },
+    {
+      "ref": "AG-78",
+      "created": "2026-10-08T08:30:00Z",
+      "applicant": {
+        "given": "Mia",
+        "surname": "Beispiel",
+        "contact": {"email_address": "bewerbung@example.com", "mobile": ""}
+      },
+      "remark": "Contact via the agency mailbox."
+    },
+    {
+      "ref": "AG-79",
+      "created": "2026-10-08T09:15:00Z",
+      "applicant": {
+        "given": "Jan",
+        "surname": "Muster",
+        "contact": {"email_address": "jan.muster@example.org", "mobile": "089 99998 020"}
+      },
+      "remark": "Referred by the employment agency."
+    }
+  ]
+}
