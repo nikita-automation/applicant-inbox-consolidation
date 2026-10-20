@@ -2,6 +2,8 @@
 
 [![ci](https://github.com/nikita-automation/applicant-inbox-consolidation/actions/workflows/ci.yml/badge.svg)](https://github.com/nikita-automation/applicant-inbox-consolidation/actions/workflows/ci.yml)
 
+> **Kurz auf Deutsch:** Führt Bewerbungen aus sechs Kanälen (Webformular, zwei Jobbörsen, Agenturportal, Chat, Postfach) in einem SQLite-Posteingang zusammen, normalisiert Telefonnummern, E-Mails und Namen und erkennt Dubletten, ohne Fremde mit gleicher Nummer oder gleichem Teampostfach zu verschmelzen. Reines Python, erfundene Demodaten.
+
 Applications arrive through many doors at once: a website form, two job boards, an employment-agency portal,
 chat messages, a mailbox. The same person often uses more than one of them — with a different e-mail, a phone
 number written three ways, or just a phone number and no name at all.
@@ -135,3 +137,7 @@ the store makes tests fail. CI runs everything on Python 3.9 and 3.12 and the de
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+**Autor:** Nikita Rozumnyi · KI-Automatisierung für Unternehmen · [nikita-automation.de](https://nikita-automation.de) · [LinkedIn](https://www.linkedin.com/in/nikita-rozumniy) · [alle Projekte](https://github.com/nikita-automation)
